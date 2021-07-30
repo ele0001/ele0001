@@ -9,6 +9,6 @@
 - 📫 How to reach me...
 
 - INSTAGRAM @a_far.nebula
-- DISCORD @ele#0001
+- DISCORD @ele`#0001
 
 Have a good day!
