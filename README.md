@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @ele0001 !
 
-- 👀 I’m interested in learning C++ & languages around the world.
-
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Python & Javascript.
 
 - 💞️ I’m looking to collaborate on verifying my Discord bot.
 
